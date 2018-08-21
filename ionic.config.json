@@ -1,0 +1,8 @@
+{
+  "name": "sonidos",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "81fd8a1c"
+}
